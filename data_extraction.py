@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 data_extraction.py
 
